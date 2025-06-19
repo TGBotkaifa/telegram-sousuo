@@ -1,8 +1,8 @@
-# 支持[@hwdb](https://t.me/hwdb) 汇旺担保交易
-# TG索引源码 TG超级索引 soso同款
+# 支持担保交易
+# TG索引源码 TG超级索引 soso同款 
 # TG群组导航收录系统源码 最新版
 # 触发关键词  telegram超级索引系统
-# 数据自动收录
+# 数据自动收录，内部数据自动爬取  
 ![image](https://github.com/user-attachments/assets/b4197842-20ce-4fb2-9dbe-5d869c89f7f6)
 ![image](https://github.com/user-attachments/assets/df29c2d1-3d36-4292-9bc1-76fd8fe91292)
 
