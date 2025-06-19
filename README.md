@@ -1,5 +1,5 @@
 # 支持担保交易
-# TG索引源码 TG超级索引 soso同款 
+# TG索引源码 TG超级索引 soso同款 持续更新 永久维护
 # TG群组导航收录系统源码 最新版
 # 演示机器人 👉 https://t.me/sousou123_bot
 # 触发关键词  telegram超级索引系统
